@@ -8,27 +8,7 @@ namespace UpcastingDowncasting
     {
         static void Main(string[] args)
         {
-            //var text = new Text();
-
-            //Shape shape = text;
-
-            //var shape = new Text();
-
-            //Text text = (Text)shape;
-
-
-
-
-            //text.Width = 200;
-            //shape.Width = 100;
-
-
-            //Console.WriteLine("Width of text obj:" + text.Width); // value will be 100 as text and shape ref same object last value is 100
-
-
-            //var list = new List<Shape>();
-
-            //list.Add(new Shape());
+          
 
             var shapes = new List<Shape>();
 
